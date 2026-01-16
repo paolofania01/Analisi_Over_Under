@@ -1,6 +1,9 @@
 Analisi Over/Under – Serie A 2025
 
 Questo progetto è un tool in Python per analizzare le probabilità di scommessa Over/Under su partite di Serie A.
+Devo ancora implementare l'algoritmo per il calcolo delle probabilita' dei goal.
+Work in Progress.
+
 
 Il programma permette di:
 
@@ -10,7 +13,7 @@ Pulire i dati (split gol casa/trasferta).
 
 Inserire manualmente le quote del bookmaker e calcolare le quote pulite (probabilità corrette rimuovendo il margine del bookmaker).
 
-Prepararsi per calcolare le proprie probabilità basate su gol fatti/subiti (media pesata).
+Calcolare le proprie probabilità basate su gol fatti/subiti (media pesata).
 
 progetto-calcistico/
 ├─ src/                  # Codice Python
