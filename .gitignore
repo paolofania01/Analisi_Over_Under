@@ -1,0 +1,16 @@
+# Ambienti virtuali
+calcio_env/
+venv/
+.env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+
+# Dati scaricati automaticamente
+data/matches.csv
+data/matches_clean.csv
